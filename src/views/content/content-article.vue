@@ -1,7 +1,7 @@
 <template>
     <div>
         文章管理
-        <Button @click="change">change</Button>
+        <Button @click="change">change1</Button>
     </div>
 </template>
 
